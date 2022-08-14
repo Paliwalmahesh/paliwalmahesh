@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:--!>
 
-- 🔭 I’m currently working on Web devlopment
-- 🌱 I’m currently learning 
+🔭 I’m currently working on Web devlopment
+
+🌱 Passionate coding and development 
 .
 

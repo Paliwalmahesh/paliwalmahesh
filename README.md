@@ -1,13 +1,9 @@
- Hi there  i am mahesh 👋
-
-<!--
-**Paliwalmahesh/Paliwalmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:--!>
+ Hi there I am mahesh 👋
 
 🔭 I’m currently working on Web devlopment
 
-/n
 🌱 Passionate coding and development 
-.
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=paliwalmahesh)
 

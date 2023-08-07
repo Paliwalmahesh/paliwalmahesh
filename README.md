@@ -61,4 +61,4 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ShreyasMandlik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=paliwalmahesh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
